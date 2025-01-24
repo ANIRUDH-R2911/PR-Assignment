@@ -5,3 +5,5 @@ The Object Detection model was perfomred using YOLOv8. The best.pt of the model 
 The test images of the semantic segmentation model can be found at: test-20250123T202830Z-001/test
 
 The results for these test images can be found at: test_predictions-20250123T202426Z-001/test_predictions
+
+The folder Object_detection_segmentation contains the ROS2 nodes for the object detection and semantic segmentation
